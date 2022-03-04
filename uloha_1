@@ -46,7 +46,7 @@ static char *alphabet[] = {
 
 int main()
 {
-    char* strToShow = "sos";    //small characters only
+    char* strToShow = "victor";    //small characters only
     
     while(true)
     {
